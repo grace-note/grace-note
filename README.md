@@ -1,4 +1,4 @@
-# grace-note
+# Grace Note
 ## HomePage
 https://grace-note.app
 
