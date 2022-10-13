@@ -8,5 +8,5 @@ https://grace-note.app
 
 # TODO
 
-- [ ] MindMap
+- [x] MindMap
 - [ ] 发布静态博客
